@@ -1,7 +1,7 @@
 # EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
-## Name : Ammoditaa Kandpal 
-## Register Number : RA2511030010362
+## Name : mohith kallaru
+## Register Number : RA2511030010344
 
 ## 1. Aim
 
